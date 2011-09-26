@@ -1,4 +1,4 @@
-package server.servlet;
+package server;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.AbstractHandler;
